@@ -10,6 +10,9 @@ Vxxxx Bxxxxxx Txxxxxx
 # Website
 http://surveydiy.herokuapp.com/
 
+# About
+The project is developed in MEAN stack.
+
 ## Run the following to start
 ```
 npm install
